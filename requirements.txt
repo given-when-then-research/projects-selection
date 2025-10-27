@@ -1,0 +1,19 @@
+# Dependências principais
+gitpython>=3.1.0
+langdetect>=1.0.9
+requests>=2.28.0
+
+# Para análise de arquivos
+chardet>=5.0.0
+pathlib2>=2.3.0
+
+# Para análise JSON/YAML
+pyyaml>=6.0
+
+# Para testes (opcional)
+pytest>=7.0.0
+pytest-cov>=4.0.0
+
+# Para desenvolvimento
+black>=22.0.0
+isort>=5.10.0
